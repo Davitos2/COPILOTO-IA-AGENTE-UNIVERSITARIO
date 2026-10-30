@@ -1,0 +1,10 @@
+D:\PA\copiloto-soporte-ti\src\main\java\com\universidad\copiloto\Application.java
+D:\PA\copiloto-soporte-ti\src\main\java\com\universidad\copiloto\infrastructure\adapter\rest\dto\LoginRequest.java
+D:\PA\copiloto-soporte-ti\src\main\java\com\universidad\copiloto\infrastructure\adapter\rest\dto\UsuarioDTO.java
+D:\PA\copiloto-soporte-ti\src\main\java\com\universidad\copiloto\infrastructure\adapter\controller\TicketController.java
+D:\PA\copiloto-soporte-ti\src\main\java\com\universidad\copiloto\infrastructure\adapter\persistence\TicketRepositoryImpl.java
+D:\PA\copiloto-soporte-ti\src\main\java\com\universidad\copiloto\application\usecase\RegistrarTicketUseCase.java
+D:\PA\copiloto-soporte-ti\src\main\java\com\universidad\copiloto\infrastructure\adapter\rest\AuthController.java
+D:\PA\copiloto-soporte-ti\src\main\java\com\universidad\copiloto\infrastructure\config\DatabaseConfig.java
+D:\PA\copiloto-soporte-ti\src\main\java\com\universidad\copiloto\domain\model\Ticket.java
+D:\PA\copiloto-soporte-ti\src\main\java\com\universidad\copiloto\domain\port\TicketRepository.java
